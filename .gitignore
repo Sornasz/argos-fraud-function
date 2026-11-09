@@ -1,0 +1,13 @@
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+.env
+local.settings.json
+
+# Dataset de referência: lido de DATASET_PATH, nunca versionado
+references.json
+references.json.gz
+*.json.gz
+
+.DS_Store

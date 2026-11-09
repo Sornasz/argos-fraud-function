@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsStorage": "",
+    "DATASET_PATH": "/caminho/para/rinha-de-backend-2026/resources/references.json.gz",
+    "FRAUD_APPROVAL_THRESHOLD": "0.6",
+    "IDEMPOTENCY_TTL_SECONDS": "900",
+    "IDEMPOTENCY_MAX_ENTRIES": "100000",
+    "SERVICEBUS_CONNECTION_STRING": "",
+    "SERVICEBUS_TOPIC_NAME": "transaction-scored"
+  }
+}
