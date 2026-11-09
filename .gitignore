@@ -11,3 +11,7 @@ references.json.gz
 *.json.gz
 
 .DS_Store
+
+# Pacote de deploy (inclui o dataset)
+.deploy/
+.deploy.zip
